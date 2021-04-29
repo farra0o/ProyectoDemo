@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio03.Android", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio03.iOS", "Laboratorio03.iOS\Laboratorio03.iOS.csproj", "{537F4280-345A-4AF6-A5CC-223E5B31B9FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio03", "Laboratorio03\Laboratorio03.csproj", "{F879D55A-0661-41A2-A895-0E4379142F33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio03", "Laboratorio03\Laboratorio03.csproj", "{F879D55A-0661-41A2-A895-0E4379142F33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
